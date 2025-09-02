@@ -33,7 +33,3 @@ Explorar el rendimiento mensual de ventas y ganancias en una tienda ficticia (Su
 
 ---
 
-### Ver el Dashboard Interactivo
-
-Estará disponible en Power BI Service a partir del 18/08  
-**(Se activará el enlace aquí)**
